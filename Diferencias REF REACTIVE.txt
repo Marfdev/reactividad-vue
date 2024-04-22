@@ -1,4 +1,3 @@
-## Diferencias REF y REACTIVE
 REF: se puede usar con todos los tipos de datos, ya sea primitvo o no
 REACTIVE: no se puede usar para tipos de datos primitivos, solamente objetos
 
